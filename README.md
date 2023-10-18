@@ -1,9 +1,10 @@
 # 2023_Fall_NYCU_Selected_Topics_in_Reinforcement_Learning
 
 # HW1 2048
+
   In this lab, you will learn temporal difference learning (TD) algorithm by solving the 2048 game using an 𝑛-tuple network.
   
-  Experimental Results
+  Experimental Results:
   
     (1) A plot shows scores (mean) of at least 100k training episodes
   
@@ -16,9 +17,10 @@
     (3) Describe your implementation in detail including action selection and TDbackup diagram
 
 # HW2  Deep Q-Network (DQN)
-  In this lab, you will learn and implement the Deep Q-Network algorithm by solving MsPacman-v5.
+
+    In this lab, you will learn and implement the Deep Q-Network algorithm by solving MsPacman-v5.
   
-  Experimental Results
+    Experimental Results:
   
     (1) Screenshot of Tensorboard training curve and testing results on DQN.
     
