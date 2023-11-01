@@ -3,9 +3,7 @@
 # HW1 2048
 
   In this lab, you will learn temporal difference learning (TD) algorithm by solving the 2048 game using an 𝑛-tuple network.
-  
   Experimental Results:
-  
     (1) A plot shows scores (mean) of at least 100k training episodes
   
   Bonus
