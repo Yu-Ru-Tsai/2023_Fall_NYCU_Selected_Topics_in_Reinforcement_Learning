@@ -63,16 +63,16 @@ In this lab, you will learn and implement the Twin Delayed DDPG (TD3) algorithm 
 ## Answer the questions of bonus parts (bonus)
 
 (1) Impact of Twin Q-Networks:
-Compare the performance of using twin Q-networks and single Q-networks in TD3, and explain.
+■ Compare the performance of using twin Q-networks and single Q-networks in TD3, and explain.
 
 (2) Target Policy Smoothing:
-Compare the impact of enabling and disabling target policy smoothing in TD3. Attempt to disable the component of target policy smoothing in TD3 and observe whether performance decreases, and explain.
+■ Compare the impact of enabling and disabling target policy smoothing in TD3. Attempt to disable the component of target policy smoothing in TD3 and observe whether performance decreases, and explain.
 
 (3) Delayed Policy Update Mechanism:
-Study the effects of using a single delayed update or adding more delayed update steps in TD3. Increase or decrease the number of delayed update steps and compare the results, and explain.
+■ Study the effects of using a single delayed update or adding more delayed update steps in TD3. Increase or decrease the number of delayed update steps and compare the results, and explain.
 
 (4) Action Noise Injection:
-Compare the effects of adding different levels of action noise (exploration noise) in TD3. Try increasing or decreasing the magnitude of action noise in TD3 and observe how it affects algorithm convergence speed and stability, and explain.
+■ Compare the effects of adding different levels of action noise (exploration noise) in TD3. Try increasing or decreasing the magnitude of action noise in TD3 and observe how it affects algorithm convergence speed and stability, and explain.
 
 (5) Reward Function Design:
-Design a different reward function that works better than the original one, and explain why it’s effective.
+■ Design a different reward function that works better than the original one, and explain why it’s effective.
