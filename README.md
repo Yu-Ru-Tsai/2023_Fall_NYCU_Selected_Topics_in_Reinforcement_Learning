@@ -81,3 +81,21 @@ In this lab, you will learn and implement the Twin Delayed DDPG (TD3) algorithm 
 (5) Reward Function Design: 
 
 ■ Design a different reward function that works better than the original one, and explain why it’s effective.
+
+# Final Project
+
+## Introduction
+
+Get ready for a thrilling project where you'll be training a model to take the wheel in a race car game! This is a first-person perspective racing game, where each step offers you only the current view. There are no boundaries -you can choose any algorithm or training framework. So, put on your thinking cap, strive for the top scores, and outshine the competition. Let's hit the track!
+
+## Lab Description
+
+■ Given the environment modified from racecar_gym, train a neural network to control the racecar.
+
+■ Race against the clock and cover the longest distance you can!
+
+■ Observe environmental characteristics and choose your method.
+
+■ Design your mechanism to train a neural network to control the racecar.
+
+■ Try to apply different potential methods!
